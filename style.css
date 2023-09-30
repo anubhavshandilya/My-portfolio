@@ -62,11 +62,10 @@ body{
     animation-delay: calc(.2s * var(--i));
 }
 
-.navbar a.active,
-.navbar a:hover{
-    
-     
-  
+/* .navbar ul a.active, */
+.navbar ul li a:hover{
+    color: tomato;
+
 }
 
 .home {
